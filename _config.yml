@@ -1,6 +1,7 @@
 ---
 exclude: ['README.markdown']
 permalink: ':title'
+permalink: /404.html
 pygments: true
 safe: false
 title: 'Carte'
